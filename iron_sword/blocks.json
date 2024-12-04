@@ -3,7 +3,7 @@
     {
     "type": "directory",
   "source": "custom",
-    "prefix": "custom/
+    "prefix": "custom/"
     }
   ]
 }
