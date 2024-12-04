@@ -2,8 +2,8 @@
   "scources": [
     {
     "type": "directory",
-  "source": "custom",
-    "prefix": "custom/"
+  "source": "blockbench",
+    "prefix": "blockbench/"
     }
   ]
 }
